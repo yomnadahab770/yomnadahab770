@@ -30,7 +30,9 @@ I’m passionate about:
 - 📫 &nbsp; Reach me out: YOUR_EMAIL  
 - 👾 &nbsp; Fun fact: I enjoy solving problems step by step until the solution clicks.  
 
-### My Learning Tools:
+---
+
+### 🛠 My Learning Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="python"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter"></code>
@@ -39,22 +41,22 @@ I’m passionate about:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="git"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="github"></code>
 
-### Projects and Stats:
+---
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
+### 📊 GitHub Stats:
 
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yomna-Dahab&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yomna-Dahab&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yomnadahab770&theme=github_dark" alt="Profile Details"/>
+</p>
 
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yomnadahab770&show_icons=true&count_private=true&hide_border=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yomnadahab770&layout=compact&langs_count=8&theme=radical" height="180em"/>
+</p>
 
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yomna-Dahab&hide_border=true" />
-</details>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yomnadahab770&theme=radical&hide_border=true" height="180em"/>
+</p>
 
 ---
 
