@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm [Yomna Dahab!](https://github.com/Yomna-Dahab)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yomna-dahab-6b34432a1)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yomna-dahab-6b34432a1/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:yomnadahab770@gmail.com)
 
 ### Welcome to my GitHub!  
