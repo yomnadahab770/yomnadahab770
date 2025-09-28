@@ -27,7 +27,7 @@ I’m passionate about:
 
 - 🛠 &nbsp; I’m currently learning: Python, ML basics, and AI tools.  
 - 🚀 &nbsp; Exploring: Generative AI, LLMs, and Computer Vision.  
-- 📫 &nbsp; Reach me out: YOUR_EMAIL  
+- 📫 &nbsp; Reach me out: **yomnadahab770@gmail.com**  
 - 👾 &nbsp; Fun fact: I enjoy solving problems step by step until the solution clicks.  
 
 ---
